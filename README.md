@@ -19,6 +19,8 @@ Warp's built-in "Save New Launch Configuration" doesn't allow overwriting existi
 go install github.com/webular/warp-launch-config-updater@latest
 ```
 
+**Note:** After installing, you may need to open a new terminal window for the command to be available in your PATH.
+
 ### Option 2: Build from Source
 ```bash
 git clone https://github.com/webular/warp-launch-config-updater.git
