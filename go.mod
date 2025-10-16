@@ -1,4 +1,4 @@
-module github.com/yourusername/warp-launch-config-updater
+module github.com/webular/warp-launch-config-updater
 
 go 1.21
 
