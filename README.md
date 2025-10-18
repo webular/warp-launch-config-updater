@@ -54,6 +54,7 @@ Download the latest release for your platform from the [Releases](https://github
    - Your current session is now saved as the selected launch config
    - All temp files are cleaned up automatically
 
+test
 ## Example
 
 ```bash
