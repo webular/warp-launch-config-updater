@@ -25,8 +25,8 @@ go install github.com/webular/warp-launch-config-updater@latest
 ```bash
 git clone https://github.com/webular/warp-launch-config-updater.git
 cd warp-launch-config-updater
-go build -o warp-config-updater main.go
-sudo mv warp-config-updater /usr/local/bin/
+go build -o warp-launch-config-updater main.go
+sudo mv warp-launch-config-updater /usr/local/bin/
 ```
 
 ### Option 3: Download Binary
@@ -42,7 +42,7 @@ Download the latest release for your platform from the [Releases](https://github
 
 2. **Run the updater:**
    ```bash
-   warp-config-updater
+   warp-launch-config-updater
    ```
 
 3. **Select which config to update:**
@@ -57,7 +57,7 @@ Download the latest release for your platform from the [Releases](https://github
 ## Example
 
 ```bash
-$ warp-config-updater
+$ warp-launch-config-updater
 
 🚀 Warp Launch Config Updater
 ==============================
